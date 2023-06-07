@@ -111,6 +111,7 @@ body,
   display: flex;
   flex-direction: column;
   overflow-y: scroll;
+  height: 5em;
 }
 .app-container .chat-container .msg-container .user-message-container {
   align-self: flex-end;
